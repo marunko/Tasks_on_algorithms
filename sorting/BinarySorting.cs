@@ -1,3 +1,5 @@
+using static System.Console;
+//Recurs 
 class Program
     {
         
